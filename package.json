@@ -1,0 +1,23 @@
+{
+  "name": "node-new-features",
+  "version": "1.0.0",
+  "description": "node new features",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscarcp777/node-new-features.git"
+  },
+  "keywords": [
+    "node",
+    "features"
+  ],
+  "author": "oscarcp777",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oscarcp777/node-new-features/issues"
+  },
+  "homepage": "https://github.com/oscarcp777/node-new-features#readme"
+}
